@@ -1,0 +1,42 @@
+.menu-title{
+    height: 60px;
+}
+
+.menu-title span{
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: sans-serif;
+} 
+.cat-outerdiv{
+    display: flex;
+    justify-content: center;
+}
+.category{
+    list-style: none;
+    display: flex;
+}
+
+.list-items{
+    margin: 10px;
+    padding: 5px 10px;
+    border: 2px solid #c59d5f;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.item-image{
+    width: 60px;
+}
+
+.item-image img{
+    width: 100%;
+
+}
+
+.item-title{
+    border-bottom: 2px dashed black ;
+    margin-block-start: 10px;
+    padding-bottom: -10px;
+    
+}
